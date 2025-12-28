@@ -41,7 +41,7 @@ I love solving problems, learning new technologies, and contributing to open-sou
 ---
 
 ## 🔗 Connect with me
-<p align="center">
+<p>
   <a href="https://github.com/ehasun15019" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40px" />
   </a>&nbsp;
