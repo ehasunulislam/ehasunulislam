@@ -34,17 +34,10 @@ I love solving problems, learning new technologies, and contributing to open-sou
 ---
 
 ## 📈 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehasun15019&layout=compact&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ehasun15019&show_icons=true&theme=radical" />
-    </td>
-  </tr>
-</table>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ehasunulislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ehasunulislam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasunulislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 🔥 GitHub Streak
