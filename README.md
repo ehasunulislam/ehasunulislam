@@ -40,13 +40,6 @@ I love solving problems, learning new technologies, and contributing to open-sou
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasunulislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ehasun15019" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🔗 Connect with me
 <p align="center">
   <a href="https://github.com/ehasun15019" target="_blank">
