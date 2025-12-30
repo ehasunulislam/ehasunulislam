@@ -3,13 +3,14 @@
 # Hi there 👋, I am **Ehasun Ul Islam**  
 ### MERN Stack Developer | Full Stack Enthusiast
 
-I am a **Junior MERN Stack Developer** passionate about building modern, scalable web applications.  
-I love solving problems, learning new technologies, and contributing to open-source projects.
+Software Engineer specialize in building scalable, high-performance web applications with React js and Next
+js. Proficient across the full-stack-modern JavaScript frameworks, RESTful APIs, secure, authentication
+systems, and cloud deployment-while delivering clean, maintainable code and exceptional user experiences.
 
 ---
 
 ## 🔭 Currently Working On
-- A **Full Stack MERN Project** to enhance CRUD operations & responsive UI  
+- A Social Meadia Website (MERN) based  
 - Learning **Advanced JavaScript** and **Next.js**
 
 ---
