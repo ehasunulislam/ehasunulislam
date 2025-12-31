@@ -9,9 +9,14 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 
 ## 👨‍💻 Skills
 
+### Programing Language
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" />
+</p>
+
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" width="250" height="250" alt="Frontend Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs" width="250" height="250" alt="Frontend Icons"/>
 </p>
 
 ### Backend
