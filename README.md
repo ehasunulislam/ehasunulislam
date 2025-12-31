@@ -15,6 +15,7 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 ### ⚙️ Frameworks & Libraries
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
 
 
 ### Backend
