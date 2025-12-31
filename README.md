@@ -7,14 +7,6 @@ Software Engineer specialize in building scalable, high-performance web applicat
 js. Proficient across the full-stack-modern JavaScript frameworks, RESTful APIs, secure, authentication
 systems, and cloud deployment-while delivering clean, maintainable code and exceptional user experiences.
 
----
-
-## 🔭 Currently Working On
-- A Social Meadia Website (MERN) based  
-- Learning **Advanced JavaScript** and **Next.js**
-
----
-
 ## 👨‍💻 Skills
 
 ### Frontend
@@ -32,6 +24,13 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,firebase,figma" width="250" height="250" alt="Tools Icons"/>
 </p>
 
+
+---
+
+## 🔭 Currently Working On
+- A Social Meadia Website (MERN) based  
+- Learning **Advanced JavaScript** and **Next.js**
+- 
 ---
 
 ## 📊 GitHub Stats:
