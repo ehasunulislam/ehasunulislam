@@ -71,7 +71,7 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
   </a>
 </p>
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/channel/@ehasunulislam)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/@ehasunulislam)
 
 ---
 
