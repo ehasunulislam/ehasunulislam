@@ -54,30 +54,8 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 ---
 
 ## 🔗 Connect with me
-<p>
-  <a href="https://github.com/ehasun15019" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40px" />
-  </a>&nbsp;
-  
-  <a href="https://linkedin.com/in/ehasun-ul-islam-orko-857831315" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
-  </a>&nbsp;
-  
-  <a href="https://fb.com/ehasun.ul.islam.orko" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" alt="Facebook" />
-  </a>&nbsp;
-  
-  <a href="mailto:ehasunulislam0202@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
-  </a>
-</p>
-
+[![Facebook Badge](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=flat)](https://www.facebook.com/ehasun.ul.islam.orko)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/@ehasunulislam)
-
----
-
-## 🔗 YouTube
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@ehasunulislam) 
 
 ---
 
