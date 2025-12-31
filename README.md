@@ -35,6 +35,7 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat)
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)
+![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat)
 
 ---
 
@@ -69,6 +70,8 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
     <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
   </a>
 </p>
+
+[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/channel/@ehasunulislam)
 
 ---
 
