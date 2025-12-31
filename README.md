@@ -30,7 +30,7 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 ## 🔭 Currently Working On
 - A Social Meadia Website (MERN) based  
 - Learning **Advanced JavaScript** and **Next.js**
-- 
+- Open COntribution
 ---
 
 ## 📊 GitHub Stats:
