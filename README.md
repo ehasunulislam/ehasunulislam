@@ -9,9 +9,9 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 
 ## 👨‍💻 Skills
 
-### Programing Language
+### 🖥️ Programing Language
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=js"  height="250" />
 </p>
 
 ### Frontend
