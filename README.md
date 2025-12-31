@@ -12,11 +12,10 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 ### 🖥️ Programing Language
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 
+### ⚙️ Frameworks & Libraries
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
 
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs" width="250" height="250" alt="Frontend Icons"/>
-</p>
 
 ### Backend
 <p align="left">
