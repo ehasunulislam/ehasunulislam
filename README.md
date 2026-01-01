@@ -61,7 +61,7 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 ## 🔗 Connect with me
 [![Facebook Badge](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=flat)](https://www.facebook.com/ehasun.ul.islam.orko)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/@ehasunulislam)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/YOUR-USERNAME/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ehasun/)
 
 
 ---
