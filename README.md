@@ -52,18 +52,17 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
  
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ehasunulislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ehasunulislam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasunulislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## 🔗 Connect with me
 [![Facebook Badge](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=flat)](https://www.facebook.com/ehasun.ul.islam.orko)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/@ehasunulislam)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ehasun/)
 
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ehasunulislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ehasunulislam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasunulislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
