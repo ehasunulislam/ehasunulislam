@@ -40,6 +40,9 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
 ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat)
 
+### Payment Integration
+![Stripe Badge](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=fff&style=flat)
+
 ---
 
 ## 🔭 Currently Working On
