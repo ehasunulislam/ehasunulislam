@@ -65,13 +65,3 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasunulislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-## 💼 Projects
-<p align="left">
-  <b>EcoTracker – Sustainable Website</b><br>
-  <i>React | Node.js | MongoDB | Tailwind CSS</i><br>
-  A responsive, eco-friendly web application built to track environmental impact and promote sustainable living.<br>
-  [🌐 Live Demo](https://ecotracker.ehasun.com/) |
-</p>
-
----
