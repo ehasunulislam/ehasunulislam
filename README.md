@@ -11,6 +11,7 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 
 ### 🖥️ Programing Language
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 
 ### ⚙️ Frameworks & Libraries
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
