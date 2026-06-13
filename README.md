@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/5hrzBwZf/Black-Green-Modern-Digital-Marketing-Open-to-Work-Linked-In-Banner.jpg)![I am GitHub Readme Generator's creator](https://i.ibb.co.com/8LQTNT8R/image-1.png)
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/8LQTNT8R/image-1.png)
 
 # Hi there 👋, I am **Ehasun Ul Islam**  
 ### MERN Stack Developer | Full Stack Enthusiast
