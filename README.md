@@ -29,6 +29,8 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 
 ### 🗄️ Databases & Authentication
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
+![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat)
 ![Firebase Badge](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff&style=flat)
 ![NeonDB](https://img.shields.io/badge/NeonDB-00E599?logo=neon&logoColor=white&style=flat)
 ![Clerk Badge](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=fff&style=flat)
