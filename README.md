@@ -76,5 +76,4 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 
 ---
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ehasunulislam)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://komarev.com/ghpvc/?username=ehasunulislam&color=green)
