@@ -69,4 +69,16 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasunulislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+---
+
+## GitHub Activity: 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ehasunulislam)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ehasunulislam)](https://git.io/streak-stats)
+
+---
