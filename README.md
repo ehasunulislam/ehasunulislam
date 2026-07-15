@@ -75,8 +75,3 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ehasunulislam)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehasunulislam&theme=darcula&animation=draw&duration=1&name=Ehasun&title_color=000000&text_color=000000&bg_color=000000&border_color=000000&icon_color=000000&chart_color=000000)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehasunulislam&theme=darcula&animation=draw&duration=1&title_color=000000&text_color=000000&bg_color=000000&border_color=000000&icon_color=000000&chart_color=000000)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ehasunulislam&theme=darcula&animation=draw&duration=1&title_color=000000&text_color=000000&bg_color=000000&border_color=000000&icon_color=000000&chart_color=000000)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehasunulislam&theme=darcula&animation=draw&duration=1&title_color=000000&text_color=000000&bg_color=000000&border_color=000000&icon_color=000000&chart_color=000000)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ehasunulislam&theme=darcula&animation=draw&duration=1&utcOffset=1&title_color=000000&text_color=000000&bg_color=000000&border_color=000000&icon_color=000000&chart_color=000000)
