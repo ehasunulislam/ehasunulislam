@@ -75,5 +75,8 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ehasunulislam)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-![](https://komarev.com/ghpvc/?username=ehasunulislam&color=green)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehasunulislam&theme=darcula&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehasunulislam&theme=darcula&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ehasunulislam&theme=darcula&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehasunulislam&theme=darcula&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ehasunulislam&theme=darcula&animation=draw&utcOffset=0)
