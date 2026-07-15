@@ -64,9 +64,8 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ehasunulislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ehasunulislam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasunulislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ehasunulislam)](https://git.io/streak-stats)
 
 ---
 
@@ -74,11 +73,5 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 
 ## GitHub Activity: 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ehasunulislam)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ehasunulislam)](https://git.io/streak-stats)
 
 ---
