@@ -69,3 +69,5 @@ systems, and cloud deployment-while delivering clean, maintainable code and exce
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasunulislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+[![Ehasun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark)](https://github.com/YOUR_GITHUB_USERNAME)
